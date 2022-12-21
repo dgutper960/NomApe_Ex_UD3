@@ -13,7 +13,7 @@ import javax.swing.WindowConstants;
 *Se han Refactorizado lel nombre de la Clase y el nombre de algunos métodos
 */
 
-public class Apuesta extends javax.swing.JFrame {
+public class Apuesta extends javax.swing.JFrame {//Refactorizado
 
    
     public Apuesta() 

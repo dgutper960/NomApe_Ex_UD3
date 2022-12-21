@@ -1,6 +1,11 @@
 
 import java.awt.event.KeyEvent;
 
+/*
+*Se han refactorizado el nombre de la Clase y también 
+*el de agunos métodos
+*/
+
 
 
 public class CrearPartido extends javax.swing.JFrame
